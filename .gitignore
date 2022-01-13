@@ -1,1 +1,7 @@
-logs/*
+logs
+saves
+screenshots
+server-resource-packs
+options.txt
+.bobby
+config
