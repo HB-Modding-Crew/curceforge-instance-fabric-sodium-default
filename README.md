@@ -4,7 +4,7 @@
 
 Ce dépôt contient une instance **CurseForge** avec les mods conseillés par le **HB Modding Crew** pour le roleplay sur le serveur minecraft **Herobrine.fr**.
 
-Les **principales fonctionalités** ajoutées par les mods sont décrits sur [ici](https://github.com/HB-Modding-Crew/modlist-fabric-sodium-default#modlist-fabric-sodium-default).
+Les **principales fonctionalités** ajoutées par les mods sont décrites sur [ici](https://github.com/HB-Modding-Crew/modlist-fabric-sodium-default#modlist-fabric-sodium-default).
 
 ---
 ## Roadmap
