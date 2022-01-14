@@ -2,9 +2,14 @@
 
 ## Introduction
 
-Ce dépôt contient une instance **CurseForge** avec les mods conseillés par le **HB Modding Crew** pour le roleplay sur le serveur minecraft **Herobrine.fr**.
+Ce dépôt contient une instance **CurseForge** basée sur la liste de mod fabric-sodium se trouvant sur ce [dépôt](https://github.com/HB-Modding-Crew/modlist-fabric-sodium-default#modlist-fabric-sodium-default).
 
-Les **principales fonctionalités** ajoutées par les mods sont décrites sur [ici](https://github.com/HB-Modding-Crew/modlist-fabric-sodium-default#modlist-fabric-sodium-default).
+---
+## Répertoires liés
+
+- [Herobrine CurseForge Fabric Optifine](https://github.com/HB-Modding-Crew/curceforge-instance-fabric-optifine-default#curceforge-instance-fabric-optifine-default)
+- [Herobrine Multimc Fabric Sodium](https://github.com/HB-Modding-Crew/mmc-instance-fabric-sodium-default#mmc-instance-fabric-sodium-default)
+- [Herobrine Multimc Fabric Optifine](https://github.com/HB-Modding-Crew/mmc-instance-fabric-optifine-default#mmc-instance-fabric-optifine-default)
 
 ---
 ## Roadmap
@@ -12,5 +17,4 @@ Les **principales fonctionalités** ajoutées par les mods sont décrites sur [i
 Voici les étapes prochaines (qui seront faites dans un ordre pseudo aléatoire) de développement de ce dépôt:
 
 - Ajouter un tutoriel d'installation pour l'instance
-- Tester l'instance sur les versions linux/la faire fonctionner/en créer une spéciale
 
