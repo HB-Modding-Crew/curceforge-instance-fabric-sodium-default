@@ -14,10 +14,3 @@ Voici les étapes prochaines (qui seront faites dans un ordre pseudo aléatoire)
 - Ajouter un tutoriel d'installation pour l'instance
 - Tester l'instance sur les versions linux/la faire fonctionner/en créer une spéciale
 
----
-## Changelog
-
-- Première rédaction du readme
-- Instance fonctionelle ajoutée
-- Première release fonctionelle et publique
-
