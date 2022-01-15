@@ -24,5 +24,5 @@ Mettez vos croquis ici.
  - OS: [e.g. Windows11/10, Ubuntu...]
  - Autre précisions:
 
-**Contextes supplémentaires:*
+**Contextes supplémentaires:**
 Allez-y... si vous avez votre vie à raconter.
