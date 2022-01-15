@@ -1,4 +1,4 @@
-# curceforge-instance-fabric-sodium-default
+# curseforge-instance-fabric-sodium-default
 
 ## Introduction
 
@@ -7,7 +7,7 @@ Ce dépôt contient une instance **CurseForge** basée sur la liste de mod fabri
 ---
 ## Répertoires liés
 
-- [Herobrine CurseForge Fabric Optifine](https://github.com/HB-Modding-Crew/curceforge-instance-fabric-optifine-default#curceforge-instance-fabric-optifine-default)
+- [Herobrine CurseForge Fabric Optifine](https://github.com/HB-Modding-Crew/curseforge-instance-fabric-optifine-default#curseforge-instance-fabric-optifine-default)
 - [Herobrine Multimc Fabric Sodium](https://github.com/HB-Modding-Crew/mmc-instance-fabric-sodium-default#mmc-instance-fabric-sodium-default)
 - [Herobrine Multimc Fabric Optifine](https://github.com/HB-Modding-Crew/mmc-instance-fabric-optifine-default#mmc-instance-fabric-optifine-default)
 
