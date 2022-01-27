@@ -6,23 +6,47 @@
 
 Ce dépôt contient une instance ***CurseForge*** compatible avec ***MultiMC*** basée sur la [liste de mod](#liste-des-mods) spécialement préparée par nos soins et adaptée au jeu sur Herobrine.fr.
 
-## **MultiMC et CurseForge**
+## **Installation**
 
-***MultiMC*** et ***CurseForge*** sont des *launchers alternatifs* au launcher Minecraft Vanilla. Ils sont rapides à installer et ont tous deux la plupart des des fonctionnalités du launcher original.
+***MultiMC*** et ***CurseForge*** sont des *launchers alternatifs* au launcher Minecraft Vanilla. Ils sont rapides à installer et ont tous deux la plupart des des fonctionnalités du launcher original. Les tutoriels suivants montrent comment installer l'instance sur ces deux lauchers.
+
+Télécharger  la dernière [release](https://github.com/HB-Modding-Crew/curseforge-instance-fabric-sodium-default/releases) de l'instance.
+
+![Alt text](images/instance_download.png?raw=true "Créer une profil")
 
 ### **CurseForge**
 
 ***CurseForge*** est uniquement adressé *aux gens qui jouent avec des mods* et permet de rechercher des mods directement dans le launcher pour les ajouter à son instance en un clic.
 
-Pour installer l'instance avec CurseForge:
+Vous devez avoir installé ***CurseForge*** au préalable. Ca se passe [ici](https://download.curseforge.com).
+
+Pour installer l'instance avec ***CurseForge***:
 
 1) Ouvrir ***CurseForge***
 2) Appuyer sur "Créer un profile" en haut à droite de la fenêtre
-![Alt text](image/curse_forge_install_new_profile.png?raw=true "Test")
+
+![Alt text](images/curse_forge_install_new_profile.png?raw=true "Créer une profil")
+
+3) Appuyer sur "import" et sélectionner l'instance téléchargée.
+
+![Alt text](images/curse_forge_install_import_profile.png?raw=true "Créer une profil")
 
 ### **MultiMC**
 
-***MultiMC*** permet d'avoir plusieurs *instances plus customisables* que CurseForge, pas obligatoirement avec des mods. Pour la gestion des mods, MultiMC offre l'avantage laisser l'utilisateur désactiver un mod sans avoir à le supprimer. 
+***MultiMC*** permet d'avoir plusieurs *instances plus customisables* que CurseForge, pas obligatoirement avec des mods. Pour la gestion des mods, ***MultiMC*** offre l'avantage laisser l'utilisateur désactiver un mod sans avoir à le supprimer.
+
+Vous devez avoir installé ***MulticMC*** au préalable. Ca se passe [ici](https://multimc.org).
+
+Pour installer l'instance avec ***MultiMC***:
+
+1) Ouvrir ***MultiMC***
+2) Créer une instance
+
+![Alt text](images/mmc_install_new_profile.png?raw=true "Créer une profil")
+
+3) Importer un zip et sélctionner l'instance téléchargée
+
+![Alt text](images/mmc_install_import_profile.png?raw=true "Créer une profil")
 
 ---
 ## **Options de jeu alternatives**
