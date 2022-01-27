@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "HBFR Fabric Modpack",
+  "name": "HBFR Fabric Modpack Sodium",
   "author": "",
   "files": [
     {
@@ -19,8 +19,13 @@
       "required": true
     },
     {
+      "projectID": 521427,
+      "fileID": 3609272,
+      "required": true
+    },
+    {
       "projectID": 306612,
-      "fileID": 3595215,
+      "fileID": 3609590,
       "required": true
     },
     {
@@ -50,7 +55,12 @@
     },
     {
       "projectID": 394468,
-      "fileID": 3535040,
+      "fileID": 3605275,
+      "required": true
+    },
+    {
+      "projectID": 286924,
+      "fileID": 3621649,
       "required": true
     },
     {
@@ -100,7 +110,7 @@
     },
     {
       "projectID": 455508,
-      "fileID": 3596180,
+      "fileID": 3612854,
       "required": true
     },
     {
