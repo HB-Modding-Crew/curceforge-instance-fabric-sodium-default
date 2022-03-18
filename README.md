@@ -57,7 +57,7 @@ Historiquement, Optifine à toujours été obligatoire sur Herobrine.fr, et cela
 
 Sodium est aujourd'hui une alternative plus performante si on ajoute d'autre mods pour palier aux manques de certaines fonctionalités.
 
-Sodium offre de meilleurs performances, mais une instance avec les mêmes mods fonctionnant avec optifine est disopible: 
+Sodium offre de meilleurs performances, mais une instance avec les mêmes mods fonctionnant avec optifine est disponible: 
 - [Herobrine CurseForge et MultiMC Fabric Optifine](https://github.com/HB-Modding-Crew/curseforge-instance-fabric-optifine-default#curseforge-instance-fabric-optifine-default)
 
 ### **Launcher vanilla**
