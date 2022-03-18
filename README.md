@@ -85,18 +85,16 @@ Mods obligatoires pour jouer sur Herobrine.fr avec Sodium:
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) | Ajoute les lumières dynamiques à la manière d'optifine. |  |
 | [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) | Permet de zoomer comme avec optifine. Le zoom est cependant customisable. |  |
 
-### **Général:**
-
 | Mod | Description | Problèmes connu |
-|:---:|:---:|:---:|
+|---|---|---|
 | [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | Utilitaire pour le fonctionnement de beaucoup de mods. |  |
-| [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display) | Permet d'afficher le ping des différents joueurs en ligne sous forme numérique. |  |
+| [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display) | Permet d'afficher le ping des différents joueurs en ligne sous forme numérique. | NON DISPONIBLE EN 1.18.2 |
 | [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) | Permet de customiser l'interface F3. |  |
 | [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) | Permet de voir plus loin que la render distance maximum du serveur. |  |
-| [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul) | Permet d'avoir de légers effets de caméra rendant plus réalistes les mouvements de test. |  |
+| [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul) | Permet d'avoir de légers effets de caméra rendant plus réalistes les mouvements de test. | NON DISPONIBLE EN 1.18.2 |
 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge) | Bibliothèque permettant à certains mods d'avoir un menu de configuration. |  |
 | [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader) | Permet de voir les skins transparents. |  |
-| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Améliore les certains blocks comme les coffres. On peut les voir de plus loin et ils font moins laguer. |  |
+| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Améliore les certains blocks comme les coffres. On peut les voir de plus loin et ils font moins laguer. | NON DISPONIBLE EN 1.18.2 |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Permet d'optimiser le rendu en ignorant les zones les blocks que le joueur ne voit pas. |  |
 | [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) | Permet de s'immerger en se voyant à la première personne. |  |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Améliore l'apparence des items. |  |
@@ -105,6 +103,6 @@ Mods obligatoires pour jouer sur Herobrine.fr avec Sodium:
 | [Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux) | Permet de passer en mode troisième personne et de faire des rotations sans que la tête du personnage bouge. |  |
 | [Presence Footstep](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) | Les sons des pas sont améliorés, customisables. |  |
 | [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) | Permet de faire fonctionner Cloth Config API. |  |
-| Chat head HB | Une version modifiée du mod Chat Head adaptée à Herobrine.fr. Permet de voir la tête du personnage qui a parlé avant sa ligne dans le chat. Bientôt dispobible en téléchargement individuel. |  |
+| Chat head HB | Une version modifiée du mod Chat Head adaptée à Herobrine.fr. Permet de voir la tête du personnage qui a parlé avant sa ligne dans le chat. Bientôt dispobible en téléchargement individuel. | NON DISPONIBLE EN 1.18.2 |
 | [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters) | Rend les sons du jeu plus réaliste en ajoutant de la réverberation. | La réverberation peut paraitre trop présente dans certains cas. Cela est réglable grâce au mod menu. |
 | [Mythickeys](https://github.com/ASangarin/MythicKeys/releases) | Mod pour interagir avec le serveur et pouvoir lui envoyer des inputs. Permet de changer la touche de double saut sur Herobrine.fr. |  |
